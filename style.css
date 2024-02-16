@@ -1,0 +1,14 @@
+   body{background: #c9c9c9;}
+   .col img{height: auto; width: 100%; padding-top:5%;}
+   .container-sm {margin-top:3%; padding-bottom:1%; background-color: white;}
+   .navbar-brand {padding: 15px; font-weight: bold; color: rgb(175, 26, 26);}
+   .nav-item {font-size: 20px;}
+   button.navbar-toggler {margin-right: 15px;}
+
+   footer{height:200px; background: #727272; margin-top: 30px;  text-align: center; color: aliceblue; padding-top: 20px;  } 
+   .nav-link.active{font-weight: bold;}
+
+   .mb-2{float: right; margin-top: 20px;}
+
+   .form-group{line-height: 50px;}
+   form{font-weight: bold;}
